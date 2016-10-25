@@ -1,8 +1,8 @@
 #Hux Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Hux Blog &rarr;](https://jeany09.github.io)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://jeany09.github.io/img/blog-desktop.jpg)
 
 
 
@@ -11,20 +11,20 @@
 Want to clone a boilerplate instead of my buzz blog? Here comes this!  
 
 ```
-$ git clone git@github.com:Huxpro/huxblog-boilerplate.git
+$ git clone git@github.com:jeany09/huxblog-boilerplate.git
 ```
 
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
+**[View Boilerplate Here &rarr;](http://jeany09.github.io/huxblog-boilerplate/)**
 
 
 ## Porting 
 
 - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
+- [**React-SSR**](https://github.com/LucasIcarus/jeany09.github.io/tree/ssr) by @LucasIcarus
 
 ## Translation
 
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
+ - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/jeany09/jeany09.github.io/blob/master/README.zh.md)
 
 ## Features
 
@@ -32,7 +32,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 - Annoyed to delete my blog post after clone or pull? **Boilerplate** comes to help you get started quickly and easily merge update.
 - `-apple-system` is added in font rule, which display beautiful new font **San Francisco** in iOS 9 by default.
-- Fixed [issue#15](https://github.com/Huxpro/huxpro.github.io/issues/15) about code wrap.
+- Fixed [issue#15](https://github.com/jeany09/jeany09.github.io/issues/15) about code wrap.
 
 ##### New Feature (V1.5.1)
 
@@ -56,7 +56,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 - Big Improvement to the **Navigation Menu** *(especially in Android)*:  Dropping the old, stuttering, low-performance [Bootstrap collapse.js](http://getbootstrap.com/javascript/#collapse),  replaced with an own wrote, [jank free](http://jankfree.org/) navbar menu in a pretty high-performance implementation of [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
-<img src="http://huangxuan.me/img/blog-md-navbar.gif" width="320" />
+<img src="http://jeany09.github.io/img/blog-md-navbar.gif" width="320" />
 
 
 ##### New Feature (V1.2)
@@ -125,8 +125,8 @@ SEOTitle: Hux Blog			# check out docs for more detail
 description: "Cool Blog"    # ...
 
 # SNS settings      
-github_username: huxpro     # modify this account to yours
-weibo_username: huxpro      # the footer woule be auto-updated.
+github_username: jeany09     # modify this account to yours
+weibo_username: jeany09      # the footer woule be auto-updated.
 
 # Build settings
 # paginate: 10              # nums of posts in one page
@@ -157,7 +157,7 @@ tags:
 
 #### SideBar
 
-![](http://huangxuan.me/img/blog-sidebar.jpg)
+![](http://jeany09.github.io/img/blog-sidebar.jpg)
 
 Seeing more information may be necessary for you to display, from V1.1, a clean, gorgeous **SideBar** is added for you, which provide more area for displaying possible modules. You can enable *(it is default enable)* this feature by simply config:
 
@@ -217,7 +217,7 @@ friends: [
 
 #### Keynote Layout
 
-![](http://huangxuan.me/img/blog-keynote.jpg)
+![](http://jeany09.github.io/img/blog-keynote.jpg)
 
 There is a increasing tendency to use Open Web technology to create keynotes, presentations, like Reveal.js, Impress.js, Slides, Prezi etc. I consider a modern blog should have abilities to post these HTML based presentation easily also abilities to play it directly.
 
@@ -226,7 +226,7 @@ Under the hood, a `iframe` is used to include webpage from outer source, so the 
 ```
 ---
 layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+iframe:     "http://jeany09.github.io/js-module-7day/"
 ---
 ```
 
@@ -263,7 +263,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: jeany09.github.io
 ```
 
 Just checkout the code offered by Google/Baidu, and copy paste here, all the rest is already done for you.
@@ -282,7 +282,7 @@ There are a number of tasks it performs like minification of the JavaScript, com
 
 #### Header Image
 
-Change header images of any pages or any posts is pretty easy as mentioned above. But, thanks to [issue #6 (in Chinese)](https://github.com/Huxpro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
+Change header images of any pages or any posts is pretty easy as mentioned above. But, thanks to [issue #6 (in Chinese)](https://github.com/jeany09/jeany09.github.io/issues/6) asked, **how to make it looks great?**
 
 **Well...it is actually a design issue**, not a coding stuff. It is better that you have basic design knowledge, but not is ok, let me told you how to make it well-designed:
 
@@ -313,7 +313,7 @@ For other circumstances, check out existing issues or create a new one!
 ## License
 
 Apache License 2.0.
-Copyright (c) 2015-2016 Huxpro
+Copyright (c) 2015-2016 jeany09
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
