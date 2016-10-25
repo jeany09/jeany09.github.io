@@ -1,37 +1,25 @@
 # Site settings
-name: jeany09博客
-email: xhqvip0902@163.com
-author: jeany09
-url: http://jeany09.github.io
-resume_site: http://jeany09.github.io
-github: https://jeany09.github.io
-baseurl: ""
-description: Actually, less is more!
-meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+copyright_name: Your/Project/Corporate Name
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://yourdomain.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  StartBootstrap
+email_username:  your-email@yourdomain.com
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
-paginate: 10
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
-github_username: luoyan35714
-highlighter: rouge
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : 
-    disqus :
-        short_name : 
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
+gems: [jekyll-paginate, jekyll-feed]
