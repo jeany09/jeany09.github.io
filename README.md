@@ -2,14 +2,18 @@
 
 ###[View Live Hux Blog &rarr;](https://jeany09.github.io)
 
+<<<<<<< HEAD
 ![](http://jeany09.github.io/img/blog-desktop.jpg)
 
+=======
+>>>>>>> 1793891dc36751d060dc5f68179fe9cd79b74b23
 
 
 ## Boilerplate (beta)
 
 Want to clone a boilerplate instead of my buzz blog? Here comes this!  
 
+<<<<<<< HEAD
 ```
 $ git clone git@github.com:jeany09/huxblog-boilerplate.git
 ```
@@ -65,6 +69,9 @@ $ git clone git@github.com:jeany09/huxblog-boilerplate.git
 
 
 ##### New Feature (V1.1)
+=======
+
+>>>>>>> 1793891dc36751d060dc5f68179fe9cd79b74b23
 
 - We now support a clean and gorgeous **[SideBar](#sidebar)** for displaying more info
 - **[Friends](#friends)** is also added as a common feature of blog help you do SEO
@@ -308,6 +315,7 @@ One of these is that github changes its build environment.
 
 So, just edit `_config.yml`, find `highlighter: pygments`, change it to `highlighter: rouge` and the warning will be gone.
 
+<<<<<<< HEAD
 For other circumstances, check out existing issues or create a new one!
 
 ## License
@@ -317,3 +325,5 @@ Copyright (c) 2015-2016 jeany09
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
+=======
+>>>>>>> 1793891dc36751d060dc5f68179fe9cd79b74b23
