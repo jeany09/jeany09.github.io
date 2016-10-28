@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: xhqvip0902@163.com
 description: ""
 keyword: ""
-url: "http://jeany09.me"              # your host, for absolute URL
+url: "http://jeany09.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -62,7 +62,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: jeany09.me
+ga_domain: jeany09.github.io
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Hiven Blog",
-        href: "http://jeany09.me"
+        href: "http://jeany09.github.io"
     },{
         title: "Foo",
         href: "#"
