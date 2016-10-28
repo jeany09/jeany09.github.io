@@ -1,6 +1,6 @@
 # Hux blog 模板
 
-### [我的博客在这里 &rarr;](http://huxpro.github.io)
+### [我的博客在这里 &rarr;](http://jeany09.github.io)
 
 
 ### 关于收到"Page Build Warning"的email
@@ -21,7 +21,7 @@
 
 ## 关于模板(beta)
 
-我的博客仓库——`huxpro.github.io`，是经常修改的，而且还会有人乱提交代码，因此给大家做了一个稳定版的模板。大家可以直接fork模板——`huxblog-boilerplate`,要改的地方我都说明了。或者可以直接下载zip到本地自己去修改。
+我的博客仓库——`jeany09.github.io`，是经常修改的，而且还会有人乱提交代码，因此给大家做了一个稳定版的模板。大家可以直接fork模板——`huxblog-boilerplate`,要改的地方我都说明了。或者可以直接下载zip到本地自己去修改。
 
 ```
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
@@ -105,7 +105,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   "Hello World, Hello Blog"
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "Hvien"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
@@ -243,7 +243,7 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 
 #### SEO Title
 
-我的博客标题是 **“Hux Blog”** 但是我想要在搜索的时候显示 **“黄玄的博客 | Hux Blog”** ，这个就需要SEO Title来定义了。
+我的博客标题是 **“Hiven Blog”** 但是我想要在搜索的时候显示 **“Hiven的博客 | Hiven Blog”** ，这个就需要SEO Title来定义了。
 
 其实这个SEO Title就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
