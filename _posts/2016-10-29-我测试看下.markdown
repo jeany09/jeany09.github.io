@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "Welcome to Hiven Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-10-29 12:00:00
+author:     "Hiven"
+header-img: "img/about-bg1.jpg"
+tags:
+    - work
+---
+
+> “mycode. ”
+
+
+## 前言
+
+wakaka,tianhehe
+
+
+
+
+<p id = "build"></p>
+---
+
+## 正文
+
+ 看看能养成写博客的好习惯不，哈哈哈。。。
+
+
+—— Hiven 后记于 2016.10.28
