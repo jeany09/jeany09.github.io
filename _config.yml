@@ -59,9 +59,9 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 9be444af2732d4cad5f3e159d9a799bf
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-86570417-1'            # Format: UA-xxxxxx-xx
 ga_domain: jeany09.github.io
 
 
@@ -84,5 +84,17 @@ friends: [
     {
         title: "Hiven Blog",
         href: "http://jeany09.github.io"
+    },{
+        title: "Foo",
+        href: "#"
+    },{
+        title: "Bar",
+        href: "#"
+    },{
+        title: "Example Friends",
+        href: "#"
+    },{
+        title: "It helps SEO",
+        href: "#"
     }
 ]
