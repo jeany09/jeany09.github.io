@@ -6,4 +6,4 @@
 
 #### [View Live Hux Blog &rarr;](http://jeany09.github.io)
 
-## If you like Hiven Blog, Please star [jeany09.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+## If you like Hiven Blog, Please star [jeany09.github.io repo](https://github.com/jeany09/jeany09.github.io) instead of this! Thank you!
