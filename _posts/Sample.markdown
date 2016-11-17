@@ -5,7 +5,7 @@ categories: [blog ]
 tags: [Tech, Mac, ]  标签
 description: 「描述」   
 ---
-
+/**
 ---
 layout:     post
 title:      "有质量的MAC软件"
@@ -16,3 +16,4 @@ header-img: "img/post-bg-2015.jpg"
 tags:
     - 标签
 ---
+**/
