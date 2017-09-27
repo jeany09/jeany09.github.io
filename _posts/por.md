@@ -1,7 +1,6 @@
 
 # 联系方式
 
-- 手机：18307559265 
 - Email：xuhq_job@163.com 
 - 微信号：by_sally
 
